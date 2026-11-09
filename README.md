@@ -1,1 +1,1 @@
-# lumirdub-sys.github.io
+# lumirdub.github.io
